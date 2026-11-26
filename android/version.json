@@ -1,7 +1,7 @@
 {
     "aplicacion":  "com.planetasextremos.game",
     "canal":  "externo",
-    "versionCode":  3,
-    "versionName":  "0.1.1-prueba",
-    "sha256":  "574e1b1cbf055471328fd00d1e44114a1fef54a7b61b31ee0d08c64f55acb2b9"
+    "versionCode":  4,
+    "versionName":  "0.1.2-prueba",
+    "sha256":  "c9ec6c8da23501c1673be1c0041938a40e692792c9a674d82bbd419a8c91b80c"
 }
